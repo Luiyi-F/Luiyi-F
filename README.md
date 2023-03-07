@@ -20,7 +20,6 @@ I am versatile, passionate about Full Stack Web Developer 🌐, Data science :te
 
 Although I am just starting in this world :nerd_face:, I have a solid background in electronics :sparkler: and programming fundamentals :computer: that have allowed me to acquire essential skills and knowledge to keep growing in this field 🌱.
 <br/>
-<br/>
 
 ### 🧐 **More About Me**:
 
@@ -32,8 +31,6 @@ Although I am just starting in this world :nerd_face:, I have a solid background
 <br>
 
 ### :hammer_and_wrench: **Languages and Tools**:
-
-<br>
 
 <div>
 <a href="https://www.cprogramming.com/" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/c/c-original.svg" alt="python" height="42px"/></a>
@@ -49,8 +46,6 @@ Although I am just starting in this world :nerd_face:, I have a solid background
 <br>
 
 ### :bar_chart: **My status**:
-
-<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiyi-F&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiyi-F&layout=compact&theme=vision-friendly-dark)
