@@ -25,7 +25,7 @@ Although I am just starting in this world :nerd_face:, I have a solid background
 
 - 🌱 &nbsp; I’m currently learning Data sciencet and Azure fundamentls;
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1v1W4JAYo0oTfTDNXDIyFGCGHk2Lguf5W/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1aeNJCcqMZpHnygDdSq9RUXwkuWnxtH3q/view?usp=share_link)
 
 <br>
 
