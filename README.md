@@ -24,7 +24,6 @@ Although I am just starting in this world :nerd_face:, I have a solid background
 ### 🧐 **More About Me**:
 
 - 🌱 &nbsp; I’m currently learning Data sciencet and Azure fundamentls;
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Luiyi-Hurtado?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1v1W4JAYo0oTfTDNXDIyFGCGHk2Lguf5W/view?usp=sharing)
 
