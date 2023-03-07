@@ -4,13 +4,13 @@
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center" >
-  <a href="https://www.linkedin.com/in/luiyi-hurtado/">
+  <a href="https://www.linkedin.com/in/luiyi-hurtado/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/Luiyi-F">
+  <a href="https://github.com/Luiyi-Hurtado" target="_blank">
     <img src="https://img.shields.io/badge/github-darkblue?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://twitter.com/Luiyi_Hurtado">
+  <a href="https://twitter.com/Luiyi_Hurtado" target="_blank">
     <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   </div>
