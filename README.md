@@ -1,6 +1,5 @@
-## 👋Hello world!, I'm Luiyi Hurtado!
+## 👋 Hello world!, I'm Luiyi Hurtado!
 
-<a href='https://www.linkedin.com/in/lfhurtado/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <br>
 
 I am versatile, passionate about Full Stack Web Developer 🌐, Data science :test_tube:, ML 🤖 or IoT 🌐. I love learning and I'm always looking for opportunities to expand my knowledge in these areas or related areas :brain:.
