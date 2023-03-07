@@ -2,10 +2,6 @@
 
 <a href='https://www.linkedin.com/in/lfhurtado/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
-
 I am versatile, passionate about Full Stack Web Developer 🌐, Data science :test_tube:, ML 🤖 or IoT 🌐. I love learning and I'm always looking for opportunities to expand my knowledge in these areas or related areas :brain:.
 
 Although I am just starting in this world :nerd_face:, I have a solid background in electronics :sparkler: and programming fundamentals :computer: that have allowed me to acquire essential skills and knowledge to keep growing in this field 🌱.
