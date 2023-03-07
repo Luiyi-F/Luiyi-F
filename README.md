@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/Luiyi-Hurtado" target="_blank">
-    <img src="https://img.shields.io/badge/github-darkblue?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/instagram-darkblue?style=for-the-badge&logo=instagram&logoColor=white" alt="Github Badge"/>
   </a>
   <a href="https://twitter.com/Luiyi_Hurtado" target="_blank">
     <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
