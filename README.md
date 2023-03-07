@@ -24,7 +24,7 @@ Although I am just starting in this world :nerd_face:, I have a solid background
 ### 🧐 **More About Me**:
 
 - 🌱 &nbsp; I’m currently learning Data sciencet and Azure fundamentls;
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Luiyi-F?tab=repositories)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Luiyi-Hurtado?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1v1W4JAYo0oTfTDNXDIyFGCGHk2Lguf5W/view?usp=sharing)
 
@@ -47,6 +47,6 @@ Although I am just starting in this world :nerd_face:, I have a solid background
 
 ### :bar_chart: **My status**:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiyi-F&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiyi-Hurtado&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiyi-F&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiyi-Hurtado&layout=compact&theme=vision-friendly-dark)
